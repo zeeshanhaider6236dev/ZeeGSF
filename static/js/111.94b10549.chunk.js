@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknew_app=self.webpackChunknew_app||[]).push([[111],{80111:function(e,n,u){u.r(n);u(72791);var i=u(80184);n.default=function(){return(0,i.jsx)("div",{children:"WriteReview"})}}}]);
+//# sourceMappingURL=111.94b10549.chunk.js.map

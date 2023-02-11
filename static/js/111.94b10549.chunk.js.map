@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/111.94b10549.chunk.js","mappings":"uIAQA,UANoB,WAClB,OACE,wCAEJ,C","sources":["pages/writeReview/WriteReview.jsx"],"sourcesContent":["import React from 'react'\r\n\r\nconst WriteReview = () => {\r\n  return (\r\n    <div>WriteReview</div>\r\n  )\r\n}\r\n\r\nexport default WriteReview"],"names":[],"sourceRoot":""}

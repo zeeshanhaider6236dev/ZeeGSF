@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/795.85ca55ac.chunk.js","mappings":"uIAQA,UANiB,WACf,OACE,qCAEJ,C","sources":["pages/bookCall/BookCall.jsx"],"sourcesContent":["import React from 'react'\r\n\r\nconst BookCall = () => {\r\n  return (\r\n    <div>BookCall</div>\r\n  )\r\n}\r\n\r\nexport default BookCall"],"names":[],"sourceRoot":""}

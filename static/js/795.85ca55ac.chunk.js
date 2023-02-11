@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknew_app=self.webpackChunknew_app||[]).push([[795],{59795:function(e,n,u){u.r(n);u(72791);var a=u(80184);n.default=function(){return(0,a.jsx)("div",{children:"BookCall"})}}}]);
+//# sourceMappingURL=795.85ca55ac.chunk.js.map
