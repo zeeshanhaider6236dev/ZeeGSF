@@ -1,8 +1,8 @@
 {
   "name": "new-app",
   "version": "0.1.0",
-  "homepage": "https://zeeshanhaider6236dev.github.io",
   "private": true,
+  "homepage": "https://zeeshanhaider6236dev.github.io/ZeeGSF",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",

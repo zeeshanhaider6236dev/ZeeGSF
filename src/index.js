@@ -69,7 +69,7 @@ const LazyLoading = React.lazy(() => import('./pages/loading/Loading'));
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <>
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/" element={
           <React.Suspense fallback={<LinearProgress color="success" />}>
